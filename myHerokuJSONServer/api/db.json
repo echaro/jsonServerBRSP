@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "Erick",
+      "password": "pass123",
+      "email": "Erick.Rosales@brightspeed.com",
+      "companyIdentifier":4
+    },
+    {
+      "id": 2,
+      "userName": "Hemanth",
+      "password": "pass123",
+      "email": "hemanth.rapolu@brightspeed.com",
+      "companyIdentifier":4
+    },
+    {
+      "id": 3,
+      "userName": "Rahul",
+      "password": "pass123",
+      "email": "Rahul.Pandey@lumen.com",
+      "companyIdentifier":1
+    }
+  ]
+}
